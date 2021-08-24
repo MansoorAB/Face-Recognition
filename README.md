@@ -6,9 +6,8 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [API Call](#api-call-via-postman)
   * [Deployment](#deployment)
-  * [Execution](#execution-preparation-and-steps)
+  * [Execution](#execution-steps)
   * [Technology Used](#technology-used)
   * [Authors](#authors)
   
@@ -16,7 +15,7 @@
 
 [![](http://img.youtube.com/vi/NCERi4l7A14/0.jpg)](http://www.youtube.com/watch?v=NCERi4l7A14 "Face Recognition")
 
-[![](https://imgur.com/expfifr.png)]()
+[![](https://imgur.com/expfifr.png)]
 
 
 ## Overview
@@ -71,7 +70,7 @@ to push work directory contents to your git repo
     git push origin main
 ```
 
-## Execution Preparation and Steps:
+## Execution Steps:
 
 1. Open the project in an IDE like pycharm 
 2. $ *cd src*
